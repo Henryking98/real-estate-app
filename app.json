@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "real-estate-app",
-    "slug": "real-estate-app",
+    "name": "realscout",
+    "slug": "realscout",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "restate",
+    "scheme": "realscout",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
